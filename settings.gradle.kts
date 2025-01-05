@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "toastify-compose-multiplatform"
 include(":toastify")
+include(":toastify-sample")
